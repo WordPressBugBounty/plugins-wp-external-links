@@ -2,7 +2,7 @@
 Contributors: WebFactory
 Tags: new window, new tab, external links, nofollow, noopener
 Requires at least: 4.2
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.2
 Stable tag: 2.63
 License: GPLv2 or later
